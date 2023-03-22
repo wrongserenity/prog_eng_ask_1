@@ -1,2 +1,2 @@
 def Foo():
-   print("test_change")
+   print("test_commit_change")
